@@ -2,8 +2,8 @@
 name: "Lisie Podróże"
 title: "Lisie Podróże"
 description: "Zlikwiduj bariery, otwórz się na świat. Twórz swoją historię. Zabieramy Cię ze sobą w podróż, rozsiądź się wygodnie."
-logo: 'assets/images/logo.jpg'
-favicon: 'assets/images/logo.png'
+logo: "assets/images/favicon.png"
+favicon: "assets/images/favicon.png"
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
